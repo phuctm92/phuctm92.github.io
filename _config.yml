@@ -7,14 +7,13 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: 'Phuc Thai'                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 'A personal blog'   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A personal blog about programming, English, life, or everything.
+  The more we share, the more we have.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://phuctm92.github.io'
@@ -22,19 +21,22 @@ url: 'https://phuctm92.github.io'
 author: 'Phuc Thai'                  # change to your full name
 
 github:
-  username: 'https://github.com/phuctm92'             # change to your github username
+  username: phuctm92             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+facebook:
+  username: phuc.tm92
+
+linkedin:
+  username: phuctm92
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: 'Phuc Thai'                  # it will shows as the copyright owner in Footer
+  email: 'phuc.tm4192@gmail.com'             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://www.facebook.com/phuc.tm92      # change to your twitter homepage
     # Uncomment below to add more social links
+    # - https://github.com/phuctm92       # change to your github homepage
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
@@ -47,7 +49,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+# timezone: Asia/Shanghai
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
