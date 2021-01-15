@@ -2,7 +2,7 @@
 title: About
 icon: fas fa-info
 order: 4
-permalink: /about
+permalink: /about/
 
 # The About page
 # v2.0
