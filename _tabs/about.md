@@ -1,4 +1,5 @@
 ---
+layout: about
 title: About
 icon: fas fa-info
 order: 4
@@ -10,6 +11,3 @@ permalink: /about/
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
-
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
