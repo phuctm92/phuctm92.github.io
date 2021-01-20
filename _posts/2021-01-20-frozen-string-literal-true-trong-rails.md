@@ -13,8 +13,7 @@ Khi dùng rubocop trong Rails, chúng ta thường bị bắt lỗi `# frozen_st
 ## Demo
 ### Frozen_string_literal: true
 
- 1. Cấp 1 vùng nhớ dựa vào nội dung của mỗi chuỗi
-
+ - Cấp 1 vùng nhớ dựa vào nội dung của mỗi chuỗi
 
 ```ruby
 # frozen_string_literal: true 
@@ -25,7 +24,7 @@ a  =  'hello'; p  a.object_id # => 47326081372960
 b  =  'hello'; p  b.object_id # => 47326081372960
 ```
 
-2. Ngăn chặn việc thay đổi chuỗi kí tự
+ - Ngăn chặn việc thay đổi chuỗi kí tự
 
 ```ruby
 # frozen_string_literal: true 
@@ -35,7 +34,9 @@ puts  str  #=> `<main>': can't modify frozen String (FrozenError)
 ```
 
 ### Frozen_string_literal: false
- 1. Cấp 1 vùng nhớ dựa vào nội dung của mỗi chuỗi
+
+ - Cấp 1 vùng nhớ dựa vào nội dung của mỗi chuỗi
+
 
 ```ruby
 # frozen_string_literal: false
@@ -46,7 +47,9 @@ a  =  'hello'; p  a.object_id  # => 47452453679540
 b  =  'hello'; p  b.object_id  # => 47452453679520
 ```
  
- 2. Ngăn chặn việc thay đổi chuỗi kí tự
+
+ - Ngăn chặn việc thay đổi chuỗi kí tự
+
 
 ```ruby
 # frozen_string_literal: false
@@ -69,5 +72,5 @@ b  =  'hello'; p  b.dup.object_id  # => 47452453679520
 
 ## Reference
 
- 1. https://stackoverflow.com/a/55900180
- 2. https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/
+ 1. [https://stackoverflow.com/a/55900180](https://stackoverflow.com/a/55900180)
+ 2. [https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/](https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/)
