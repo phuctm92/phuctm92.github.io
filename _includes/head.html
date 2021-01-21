@@ -13,6 +13,8 @@
 
   {% seo title=false %}
 
+  <meta name="robots" content="{{ page.robots | default: "index,follow" }}" />
+
   <title>
   {%- unless page.layout == "home" -%}
     {{ page.title | append: " | "}}
