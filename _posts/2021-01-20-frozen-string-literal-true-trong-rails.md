@@ -7,6 +7,8 @@ tags: [Ruby on Rails]
 
 Khi dùng rubocop trong Rails, chúng ta thường bị bắt lỗi `# frozen_string_literal: true`. Vậy `frozen_string_literal` dùng để làm gì?
 
+<!--more-->
+
 ## Frozen_string_literal là gì ?
 `# frozen_string_literal: true` là 1 trong những magic comments được support từ **ruby 2.3** dùng để cải thiện performance bằng việc **chỉ cấp 1 vùng nhớ dựa vào nội dung của mỗi chuỗi**, nghĩa là với những chuỗi có nội dung giống nhau thì sẽ chỉ thuộc về 1 vùng nhớ , tương tự với **Symbol**. Bằng cách thông báo với Ruby rằng bạn đã "*freeze string literal (string object)*" thì Ruby sẽ **không để cho bất cứ thứ gì có thể chỉnh sửa chuỗi ký tự đó.**
 

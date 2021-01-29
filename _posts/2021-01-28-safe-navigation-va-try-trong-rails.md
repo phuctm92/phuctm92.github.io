@@ -1,11 +1,15 @@
 ---
 title: Safe Navigation (&.) và Try trong Rails
+description: "Chắc hẳn khi làm việc với Rails, để gọi method của object mà không cần sợ object đó có nil hay không hoặc để handle lỗi 'NoMethodError: undefined method for nil:NilClass'"
 date: 2021-01-28 19:00:00 +0700
 categories: [Programming, TIL]
 tags: [Ruby on Rails]
 ---
 
-Chắc hẳn khi làm việc với Rails, để gọi method của object mà không cần sợ object đó có nil hay không hoặc để handle lỗi `NoMethodError: undefined method for nil:NilClass`, 1 trong top những lỗi kinh điển nhất của Rails, chúng ta thường sẽ nghĩ tới method `try` hay `Safe Navigation Operator (&.)` như 1 cách để giải quyết vấn đề. Ví dụ:
+Chắc hẳn khi làm việc với Rails, để gọi method của object mà không cần sợ object đó có nil hay không hoặc để handle lỗi `NoMethodError: undefined method for nil:NilClass`, 1 trong top những lỗi kinh điển nhất của Rails, chúng ta thường sẽ nghĩ tới method `try` hay `Safe Navigation Operator (&.)` như 1 cách để giải quyết vấn đề.
+<!--more-->
+Ví dụ:
+
 ```ruby
 post = nil
 post.title # => NoMethodError: undefined method `title' for nil:NilClass
