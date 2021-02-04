@@ -24,9 +24,9 @@ Bắt đầu với bộ môn Ruby on Rails tới giờ đã hơn 2.5 năm. Kinh 
 
 - Version control: ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-- Nosql: ![redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=solr&logoColor=white)
+- Nosql: ![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- Search engine: ![solr](https://img.shields.io/badge/Solr-D9411E?style=for-the-badge&logo=solr&logoColor=white)
+- Search engine: ![solr](https://img.shields.io/badge/Solr-D9411E?style=for-the-badge&logo=apache-solr&logoColor=white)
 
 
 Mong muốn hiện tại là học thêm về ***AWS*** và cải thiện tiếp những stacks đi kèm với Rails như ***StimulusJS*** hoặc tìm hiểu ***Ruby/Rails*** sâu hơn.
