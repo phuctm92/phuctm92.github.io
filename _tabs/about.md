@@ -28,7 +28,5 @@ Bắt đầu với bộ môn Ruby on Rails tới giờ đã hơn 2.5 năm. Kinh 
 
 - Search engine: ![solr](https://img.shields.io/badge/Solr-D9411E?style=for-the-badge&logo=solr&logoColor=white)
 
-- Nosql: ***Redis***
-- Search engine: ***Solr***
 
 Mong muốn hiện tại là học thêm về ***AWS*** và cải thiện tiếp những stacks đi kèm với Rails như ***StimulusJS*** hoặc tìm hiểu ***Ruby/Rails*** sâu hơn.
