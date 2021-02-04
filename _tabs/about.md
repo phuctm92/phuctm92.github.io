@@ -8,7 +8,7 @@ permalink: /about/
 
 Đây là blog cá nhân, cũng chỉ là chỗ để mình note và chia sẻ lại những điều được học mỗi ngày. Đa số cũng từ những bài blog của người khác mà đúc kết lại thôi :v
 
-
+<!--more-->
 
 ## Về mình
 ___
