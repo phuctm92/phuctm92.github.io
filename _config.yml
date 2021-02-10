@@ -147,6 +147,7 @@ defaults:
     scope:
       path: tags
     values:
+      sitemap: false
       breadcrumb:
         -
           label: Home
@@ -158,6 +159,7 @@ defaults:
     scope:
       path: categories
     values:
+      sitemap: false
       breadcrumb:
         -
           label: Home

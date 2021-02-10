@@ -4,5 +4,5 @@ title: Categories
 icon: fas fa-stream
 order: 1
 permalink: /categories/
-robots: noindex,nofollow
+sitemap: false
 ---

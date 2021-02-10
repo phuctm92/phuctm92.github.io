@@ -4,5 +4,5 @@ title: Tags
 icon: fas fa-tags
 order: 2
 permalink: /tags/
-robots: noindex,nofollow
+sitemap: false
 ---
