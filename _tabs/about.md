@@ -4,6 +4,7 @@ title: About
 icon: fas fa-info
 order: 4
 permalink: /about/
+robots: noindex,nofollow
 ---
 
 Đây là blog cá nhân, cũng chỉ là chỗ để mình note và chia sẻ lại những điều được học mỗi ngày. Đa số cũng từ những bài blog của người khác mà đúc kết lại thôi :v
