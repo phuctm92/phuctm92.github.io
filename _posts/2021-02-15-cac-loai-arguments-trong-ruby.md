@@ -3,9 +3,9 @@ title: Các loại arguments trong ruby
 date: 2021-02-16 17:00:00 +0700
 categories: [Programming, TIL]
 tags: [Ruby on Rails]
---- 
+---
 Các method trong Ruby có thể nhận 0 hoặc nhiều arguments. Những arguments này được triển khai theo nhiều cách khác nhau và có thứ tự ưu tiên của riêng nó.
-<!--more--> 
+<!--more-->
 
 ## Các loại arguments
 ### Required argument
@@ -55,10 +55,10 @@ Person.new.call("Phuc dep trai", 18, "read book", "game")
 # "Phuc dep trai"
 # 18
 # ["read book", "game"]
-# => => ["Phuc dep trai", 18, ["read book", "game"]]
+# => ["Phuc dep trai", 18, ["read book", "game"]]
 ```
 
-Tương tự với **single operator** (*), chúng ta có **double operator** (**) và `(**args)` được xem như là 1 hash các arguments.
+Ngoài **single splat operator** (*), chúng ta có **double splat operator** (**). Cách hoạt động tương tự như single splat operator, là một optional argument và `(**args)` được xem như là 1 hash các arguments.
 
 ```ruby
 def call(a, b, **opts)
