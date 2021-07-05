@@ -7,7 +7,7 @@ tags: [Ruby on Rails]
 `Tag`, a view helper, sometime can make you code simplier.
 <!--more-->
 ## 1. Introduction
-New syntax: `tag.<tag name>(optional content, options)`
+New syntax (from Rails 5.1): `tag.<tag name>(optional content, options)`
 
 Old syntax:  `tag(name, options = nil, open = false, escape = true)`
 
