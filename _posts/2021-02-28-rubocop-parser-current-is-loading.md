@@ -28,9 +28,10 @@ warning: 2.a-compliant syntax, but you are running 2.b.
 ### https://github.com/jeremyevans/ruby-warning
 Warning.ignore(/warning: parser/)
 ```
-3. If you use **VS Code** as code editor and install `ruby-rubocop` extension. Go to its **extension settings** and check the checkbox 
+3. If you use **VS Code** as code editor and install `ruby-rubocop` extension. Go to its **extension settings** and check the checkbox
 ```
 Ruby > Rubocop:Suppress Rubocop Warnings
 ```
+
 ## Reference
 - [https://github.com/rubocop/rubocop/issues/1819](https://github.com/rubocop/rubocop/issues/1819){:target="_blank"}
