@@ -4,7 +4,7 @@ date: 2021-08-21 8:00:00 +0700
 categories: [Programming, TIL]
 tags: [Webpack]
 ---
-The `~` and `^` symbols and other ones in package.json Webpack
+The tilde `~` and caret `^` symbols in package.json Webpack
 <!--more-->
 
 ## Difference
