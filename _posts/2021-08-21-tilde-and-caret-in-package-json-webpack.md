@@ -1,6 +1,6 @@
 ---
 title: "The ~ and ^ symbol in package.json Webpack"
-date: 2021-08-19 8:00:00 +0700
+date: 2021-08-21 8:00:00 +0700
 categories: [Programming, TIL]
 tags: [Webpack]
 ---
