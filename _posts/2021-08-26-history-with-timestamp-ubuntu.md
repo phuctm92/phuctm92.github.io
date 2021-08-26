@@ -17,7 +17,7 @@ By default, the `history` command will display output as follows:
 ```
 
 ## How to display timestamps of history in Bash
-### Define the environment variable named **HISTTIMEFORMAT**:
+Define the environment variable named **HISTTIMEFORMAT**:
 
 `HISTTIMEFORMAT="%d/%m/%y %T "`
 - %d: Day
