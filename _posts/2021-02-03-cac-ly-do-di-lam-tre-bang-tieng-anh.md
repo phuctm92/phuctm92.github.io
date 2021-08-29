@@ -1,8 +1,8 @@
 ---
 title: Các lý do đi làm trễ bằng tiếng Anh
 date: 2021-02-03 16:00:00 +0700
-categories: [English,TIL]
-tags: [English]
+categories: [English]
+tags: [Sentence Templates]
 ---
 
 Dưới đây là một số lí do bằng tiếng Anh bạn có thể dùng khi đi trễ. Hãy thử xem nhé =)))

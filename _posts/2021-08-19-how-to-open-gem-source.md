@@ -1,8 +1,8 @@
 ---
 title: '[Tip/Trick] How to open a gem source in Ruby/Rails'
 date: 2021-08-19 8:00:00 +0700
-categories: [Programming, Tip/Trick]
-tags: [Ruby on Rails]
+categories: [Programming]
+tags: [Ruby on Rails, Tips/Tricks]
 ---
 Open the source for a gem in your bundle by command: `bundle open [gem]`
 <!--more-->

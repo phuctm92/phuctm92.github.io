@@ -1,7 +1,7 @@
 ---
 title: Frozen_string_literal:true trong Rails
 date: 2021-01-20 14:00:00 +0700
-categories: [Programming, TIL]
+categories: [Programming]
 tags: [Ruby on Rails]
 ---
 

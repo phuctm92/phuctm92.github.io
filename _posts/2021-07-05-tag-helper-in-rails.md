@@ -1,8 +1,8 @@
 ---
 title: Make code simplier using tag helper in Rails
 date: 2021-07-05 8:00:00 +0700
-categories: [Programming, TIL]
-tags: [Ruby on Rails]
+categories: [Programming]
+tags: [Ruby on Rails, View Helper]
 ---
 `Tag`, a view helper, sometime can make you code simplier.
 <!--more-->

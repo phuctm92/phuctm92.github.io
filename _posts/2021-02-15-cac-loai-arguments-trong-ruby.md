@@ -1,7 +1,7 @@
 ---
 title: Các loại arguments trong ruby
 date: 2021-02-16 17:00:00 +0700
-categories: [Programming, TIL]
+categories: [Programming]
 tags: [Ruby on Rails]
 ---
 Các method trong Ruby có thể nhận 0 hoặc nhiều arguments. Những arguments này được triển khai theo nhiều cách khác nhau và có thứ tự ưu tiên của riêng nó.

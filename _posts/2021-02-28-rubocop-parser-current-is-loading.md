@@ -1,8 +1,8 @@
 ---
 title: Rubocop - Suppress warning parse/current is loading
 date: 2021-02-28 00:00:00 +0700
-categories: [Programming, TIL]
-tags: [Ruby on Rails]
+categories: [Programming]
+tags: [Ruby on Rails, VS Code]
 ---
 `
 warning: parser/current is loading parser/ruby2x, which recognizes

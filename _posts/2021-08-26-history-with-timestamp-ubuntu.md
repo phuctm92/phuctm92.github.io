@@ -1,8 +1,8 @@
 ---
 title: "Command history with timestamp in Linux/Ubuntu"
 date: 2021-08-26 8:00:00 +0700
-categories: [Linux, TIL]
-tags: [Linux]
+categories: [Programming]
+tags: [Ubuntu]
 ---
 Display history with timestamp in Linux/Ubuntu
 <!--more-->

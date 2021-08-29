@@ -2,7 +2,7 @@
 title: Safe Navigation (&.) và Try trong Rails
 description: "Chắc hẳn khi làm việc với Rails, để gọi method của object mà không cần sợ object đó có nil hay không hoặc để handle lỗi 'NoMethodError: undefined method for nil:NilClass'"
 date: 2021-01-28 19:00:00 +0700
-categories: [Programming, TIL]
+categories: [Programming]
 tags: [Ruby on Rails]
 ---
 
