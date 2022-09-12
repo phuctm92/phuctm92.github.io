@@ -8,6 +8,8 @@ tags: [Devops]
 A virtual machine and Docker container differences.
 <!--more-->
 
+## 1. Docker vs VM
+
 |**Virtual Machine** | **Docker Container** |
 |--|--|
 Hardware-level process isolation | OS level process isolation
@@ -20,7 +22,7 @@ Creating VM takes a relatively longer time|Containers can be created in seconds
 More resource usage|Less resource usage
 
 
-## 5. Reference
+## 2. Reference
 [https://geekflare.com/docker-vs-virtual-machine/](https://geekflare.com/docker-vs-virtual-machine/){:target="_blank"}
 
 ___
