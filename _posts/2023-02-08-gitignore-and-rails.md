@@ -7,6 +7,7 @@ tags: [Ruby on Rails, Git]
 Untrack database.yml file by adding it to .gitignore
 <!--more-->
 
+## How to
 Case 1: **database.yml** file wasn't already committed
 
 ```bash
@@ -22,6 +23,9 @@ Case 2: **database.yml** file was already committed. After tell `.gitignore` the
 ```bash
 git rm --cached config/database.yml
 ```
+
+## References
+- [https://stackoverflow.com/a/33484222/3123549](https://stackoverflow.com/a/33484222/3123549){:target="_blank"}
 
 ___
 *“When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.”— Eleanor Roosevelt*{: .text-center.text-success}
