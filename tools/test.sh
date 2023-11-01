@@ -65,8 +65,8 @@ if $_build; then
 fi
 
 bundle exec htmlproofer "$DEST" \
-  --disable-external \
-  --check-html \
-  --empty_alt_ignore \
+  --disable_external \
+  --checks \
+  --ignore_empty_alt \
   --allow_hash_href \
-  --url_ignore $URL_IGNORE
+  --ignore_urls $URL_IGNORE
